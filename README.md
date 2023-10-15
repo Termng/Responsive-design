@@ -1,6 +1,10 @@
 # Responsive-design
 Landing page for a Techblog using media queries, Grids and Flexbox
 
+<img width="1625" alt="Desktop" src="https://github.com/Termng/Responsive-design/assets/95339155/83a8203e-be3b-4e15-85d8-eb718aa488bf">
+<img width="494" alt="Mobile" src="https://github.com/Termng/Responsive-design/assets/95339155/f8b02bea-87b0-4b37-9e5b-d5f3825efe65">
+
+
 
 This repository contains a mock tech blog website created using HTML, CSS, and various web design techniques, including media queries, CSS flexbox, and CSS grids. The purpose of this project is to demonstrate responsive web design and layout techniques that adapt to different screen sizes and orientations.
 
