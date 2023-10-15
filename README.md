@@ -10,3 +10,5 @@ This repository contains a mock tech blog website created using HTML, CSS, and v
     * Media Queries: The website utilizes media queries to adjust the layout and styling based on the screen size and device type.
     * CSS Flexbox: Flexible and dynamic page layouts are achieved through CSS flexbox, making it easy to align and distribute content.
     * CSS Grids: Grid layouts help organize the blog's content, providing an efficient structure for the different sections of the page.
+
+
